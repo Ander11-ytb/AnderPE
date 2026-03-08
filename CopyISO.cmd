@@ -1,2 +1,2 @@
 @echo off
-copy "%USERPROFILE%\Desktop\AnderPE_Non7.iso" "%USERPROFILE%\Downloads\"
+copy "C:\Users\Anderson\Desktop\AnderPE_Non7.iso" "%USERPROFILE%\Downloads\"
